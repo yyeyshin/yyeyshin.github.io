@@ -1,0 +1,130 @@
+body {
+			font-family: 'Noto Sans KR', sans-serif;
+			background-color: gainsboro;
+			color: black;
+			line-height: 1.7;
+		}
+
+h1 {
+			color:black;
+			text-align: left;
+			te
+		}
+
+
+p {
+			margin: 50px;
+			padding:50px;
+			background-color: darkred;
+			text-align: center;
+		}
+
+a{
+			text-decoration: none;
+			font-size: 20pt;
+			color: white;
+
+		}
+
+
+	a:focus {
+
+		color: white;
+ 	 /* 링크 위에 키보드 포커스가 위치한 상태 */
+	}
+
+	a:hover {
+		color: forestgreen;
+		text-decoration: bold;
+  /* 링크 위에 마우스 포인터가 위치한 상태 */
+				}
+
+.box {
+	box-align: center;
+	display: inline-block;
+		text-align: center;
+}
+
+.fb{
+	
+	line-height: 150px;
+	width: 600px;
+	height: 150px;
+	color: #FF5733;
+	background-color: #FF5733;
+
+}
+
+.fb a {
+
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+
+
+}
+
+.fb a:hover{
+
+	color: #2B7A00;
+	text-decoration: none;
+
+}
+
+
+.sb{
+
+	line-height: 100px;
+	text-align: center;
+	width: 600px;
+	height: 100px;
+	color: #421302;
+	background-color: #421302;
+
+}
+
+.sb a {
+
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+
+
+}
+
+.sb a:hover{
+
+	color: #2B7A00;
+	text-decoration: none;
+
+}
+
+.tb{
+
+	line-height: 300px;
+	text-align: center;
+	width: 600px;
+	height: 300px;
+	color: #FFD0BF;
+	background-color: #FFD0BF;
+
+}
+
+.tb a {
+
+	color: white;
+	font-weight: bold;
+	font-size: 20px;
+
+
+}
+
+.tb a:hover{
+
+	color: #2B7A00;
+	text-decoration: none;
+
+}
+
+
+
