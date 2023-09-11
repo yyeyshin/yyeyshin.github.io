@@ -42,7 +42,8 @@ a{
 .box {
 	box-align: center;
 	display: inline-block;
-		text-align: center;
+	text-align: center;
+	position: relative;
 }
 
 .fb{
