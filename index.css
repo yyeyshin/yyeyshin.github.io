@@ -3,13 +3,19 @@ body {
 			background-color: gainsboro;
 			color: black;
 			line-height: 1.7;
+			margin-bottom: 100px;
+			margin-left: 100px;
+			margin-right: 100px;
 		}
+
+
+
 
 @media screen and (max-width: 600px){ 
 	.fb{
 
 
-}
+			}
 
 					 }
 
@@ -69,14 +75,16 @@ a{
 				}
 
 .box {
+			
 	box-align: center;
 	display: inline-block;
 	text-align: center;
+	align-items: center;
 	position: relative;
 }
 
 .fb{
-	
+
 	line-height: 150px;
 	width: 600px;
 	height: 150px;
