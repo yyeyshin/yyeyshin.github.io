@@ -4,6 +4,10 @@ body {
 			color: black;
 			line-height: 1.7;
 		}
+@media screen and (max-width: 600px){ 
+					 }
+
+}
 
 h1 {
 			color:black;
