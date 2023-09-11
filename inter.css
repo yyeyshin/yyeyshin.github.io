@@ -1,0 +1,56 @@
+
+
+
+body {
+			font-family: 'Noto Sans KR', sans-serif;
+			background-color: white;
+			color: black;
+			line-height: 1.7;
+			word-break: keep-all;
+			
+		}
+
+h1 {
+	text-align: center;
+	margin-top: 80px
+
+	}
+
+	.d a{
+
+	text-decoration: none;
+	color: darkcyan;
+			}
+
+
+	.d a:hover {
+
+		color: black;
+	}
+
+h2 {
+	text-align: left;
+	margin-left: 100px;
+	margin-top: 80px;
+	
+	}
+
+
+h3 {
+	text-align: left;
+	margin-left: 100px;
+
+	}
+
+
+p{
+
+	margin-left: 100px;
+		
+		}
+
+
+
+
+
+
