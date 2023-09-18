@@ -50,6 +50,20 @@ details {
 
 
 
+.back {
+
+	color: black;
+	text-decoration: none;
+}
+
+
+.back:hover {
+
+	color: limegreen;
+	
+}
+
+
 
 
 
