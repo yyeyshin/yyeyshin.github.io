@@ -3,7 +3,7 @@
 
 body {
 			font-family: 'Noto Sans KR', sans-serif;
-			background-color: white;
+			background-color: lightgray;
 			color: black;
 			line-height: 1.7;
 			word-break: keep-all;
@@ -28,7 +28,7 @@ body {
 
 						}
 
-						
+
 
 h1 {
 	text-align: center;
@@ -70,7 +70,19 @@ p{
 		}
 
 
+details{
+
+text-align: center;
+		}
 
 
+summary {
+	color: red;
+
+}
+
+summary:hover {
+	color: limegreen;
+}
 
 
