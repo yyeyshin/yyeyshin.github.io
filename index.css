@@ -6,6 +6,7 @@ body {
 			margin-bottom: 100px;
 			margin-left: 100px;
 			margin-right: 100px;
+			text-align:center;
 		}
 
 
@@ -47,6 +48,21 @@ h1 {
 			}
 
 
+h2 {
+			color:black;
+			text-align: center;
+			
+		}
+
+
+ .self {	
+            margin-top: 10px;
+            margin-bottom: 60px;
+			font-size: 13px;
+			text-align: center; 
+			color: black;
+		}
+
 
 
 a{
@@ -55,7 +71,94 @@ a{
 
 		}
 
+.box {
+			
 
+	display: inline-block;
+	text-align: center;
+	align-items: center;
+	position: relative;
+	font-size: 18px;
+		color: black;
+			}
+
+
+
+.fb a {
+
+	color: black;
+
+	
+
+
+}
+
+.fb a:hover{
+
+	color: #2B7A00;
+	text-decoration: none;
+
+}
+
+
+
+
+.sb a {
+		color: black;
+
+
+	
+
+
+}
+
+.sb a:hover{
+
+	color: #2B7A00;
+	text-decoration: none;
+
+}
+
+
+.tb a {
+
+	color: black;
+
+	
+
+
+}
+
+.tb a:hover{
+
+	color: #2B7A00;
+	text-decoration: none;
+
+}
+
+
+
+.tib a {
+
+	color: black;
+
+
+
+
+}
+
+.tib a:hover{
+
+	color: #2B7A00;
+	text-decoration: none;
+
+}
+
+h3 {
+			color:black;
+			text-align: center;
+			
+		}
 	/*a:focus {
 
 		color: white;
@@ -68,7 +171,7 @@ a{
   /* 링크 위에 마우스 포인터가 위치한 상태 */
 				}
 
-.box {
+/*.box {
 			
 	box-align: center;
 	display: inline-block;
@@ -182,7 +285,7 @@ a{
 	color: #2B7A00;
 	text-decoration: none;
 
-}
+}*/
 
 
 
